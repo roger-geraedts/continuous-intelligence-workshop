@@ -1,4 +1,4 @@
-Hello!
+Hello there!
 
 # Continuous Intelligence and CD4ML Workshop
 
